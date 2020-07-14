@@ -1,0 +1,22 @@
+.all{
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+.images{
+	padding: 15px;
+}
+
+img{
+	width: 100%;
+	padding:4px;
+	transition:transform 0.5s;
+}
+img:hover{
+	transform: scale(1.05);
+}
+p{
+	margin: 0;
+}
+a:hover{
+	text-decoration: none;
+}

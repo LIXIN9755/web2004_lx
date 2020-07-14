@@ -1,0 +1,41 @@
+.font_title{font-size: 16px;color: #666;font-weight: 600;}
+.font_details{font-size: 14px;color: #888;}
+.breadcrumb-item + .breadcrumb-item::before{
+  content:"❤" !important;
+}
+.breadcrumb>.breadcrumb-item>a:hover{
+	color: #aaa;
+}
+.font_head{font-size: 20px;color: #727272;}
+.carousel-indicators li{
+  width:8rem !important;height: 4rem !important;
+	bottom: -5.7rem !important;
+}
+.carousel-indicators .li1{
+	background: url(../img/01.webp) no-repeat !important;
+	background-size: cover !important;
+}
+.carousel-indicators .li2{
+	background: url(../img/02.webp) no-repeat !important;
+	background-size: cover !important;
+}
+.carousel-indicators .li3{
+	background: url(../img/4.webp) no-repeat !important;
+	background-size: cover !important;
+}
+.carousel-indicators .li4{
+	background: url(../img/5.webp) no-repeat !important;
+	background-size: cover !important;
+}
+.carousel-indicators .active {
+   
+}
+.carousel-control-prev,.carousel-control-next{
+  width:5%;height: 10%;
+  background-color: #151515;
+  border-radius: 0.25rem;
+  top:45% !important;
+}
+.a_hover>a:hover{
+	color: #aaa;
+}
